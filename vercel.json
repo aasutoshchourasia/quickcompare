@@ -1,8 +1,0 @@
-{
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "functions": {
-    "api/compare.js": {
-      "runtime": "nodejs22.x"
-    }
-  }
-}
